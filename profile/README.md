@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hollygov.com/careers"><img src="https://img.shields.io/badge/Careers-6C4BB6?style=for-the-badge" alt="Careers" /></a>
-  <a href="https://www.hollygov.com/blog"><img src="https://img.shields.io/badge/Blog-6C4BB6?style=for-the-badge" alt="Blog" /></a>
+  <a href="https://www.hollygov.com/careers"><img src="https://img.shields.io/badge/Careers-6C4BB6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4=" alt="Careers" /></a>
+  <a href="https://www.hollygov.com/blog"><img src="https://img.shields.io/badge/Blog-EA6C00?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="https://www.linkedin.com/company/hollygov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
